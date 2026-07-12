@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akshayaad19/leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/akshayaad19/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/akshayaad19/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/akshayaad19/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/akshayaad19/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/akshayaad19/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/akshayaad19/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/akshayaad19/leetcode-solutions/tree/master/0125-valid-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/akshayaad19/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
