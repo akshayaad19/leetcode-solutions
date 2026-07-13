@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshayaad19/leetcode-solutions/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/akshayaad19/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/akshayaad19/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/akshayaad19/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/akshayaad19/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/akshayaad19/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/akshayaad19/leetcode-solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
