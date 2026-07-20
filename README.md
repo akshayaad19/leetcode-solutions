@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akshayaad19/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/akshayaad19/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/akshayaad19/leetcode-solutions/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/akshayaad19/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/akshayaad19/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/akshayaad19/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/akshayaad19/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/akshayaad19/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/akshayaad19/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/akshayaad19/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshayaad19/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/akshayaad19/leetcode-solutions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/akshayaad19/leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
