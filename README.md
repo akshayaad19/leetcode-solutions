@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshayaad19/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/akshayaad19/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/akshayaad19/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/akshayaad19/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/akshayaad19/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akshayaad19/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/akshayaad19/leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/akshayaad19/leetcode-solutions/tree/master/0046-permutations) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/akshayaad19/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
